@@ -51,7 +51,7 @@ const ServiceTabs = () => {
             case 'tile':
                 return (
                     <div>
-                        <h3>Luxurious Comfort Underfoot</h3>
+                        <h3>Luxurious Comfort</h3>
                         <p>Indulge in the plush comfort of carpet flooring. Our selection offers a diverse range of styles and textures, providing a cozy and luxurious feel to your home. Discover the perfect blend of functionality and aesthetics with our high-quality carpeting solutions.</p>
                     </div>
                 );
